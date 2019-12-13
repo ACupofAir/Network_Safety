@@ -6,3 +6,4 @@ int main()
  return 0;
  while(1);
 }
+//没啥事,就是闲
